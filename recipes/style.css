@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: #d2dcf7;
+    
+ 
+}
+
+img {
+    width: 215px;
+    height: auto;
+}
+
+h3 {
+    background-color: #d6cde9;
+   
+}
+
+ul {font-size: 14px;
+}
+
+ol {
+    font-size: 12px;
+}
+
+h1, h3 {
+    color: rgb(60,62,66);
+    text-align: center;
+}
